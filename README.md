@@ -34,7 +34,8 @@ R= {
 
 ```
 ### Graphical Representation
-![ss2](./ss2.jpeg)
+
+![image](https://github.com/user-attachments/assets/84620b85-7057-4537-aeaf-b3072700ded7)
 
 ## PYTHON REPRESENTATION:
 ```py
@@ -57,7 +58,9 @@ T
 ```
 
 ## OUTPUT:
-![ss1](./ss1.png)
+
+![image](https://github.com/user-attachments/assets/d4daa4b9-e68a-4656-a1c5-d3a563933e9e)
+
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
 Text representation,Graphical representation,Python - Dictonary representation.
