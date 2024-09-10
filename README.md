@@ -35,7 +35,7 @@ R = { +1 , if we come closer to the winning
 
 
 ## PYTHON REPRESENTATION:
-
+```
 P = {
     0:{
         0: [(0.77,0,0,True),(0.23,1,0,False)],
@@ -51,7 +51,7 @@ P = {
     }
 }
 
-
+```
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/7de4f369-9398-4534-846b-d7b3c5175ce5)
 
